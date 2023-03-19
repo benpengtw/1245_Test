@@ -1,0 +1,10 @@
+
+.message-sender{
+  display: flex ;
+  justify-content: flex-start;
+}
+.message-receiver{
+  display: flex ;
+  justify-content: flex-end;
+  
+}
